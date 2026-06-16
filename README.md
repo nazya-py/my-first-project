@@ -1,6 +1,6 @@
 # my-first-project
 
-Hai, ini gue baru pertama kali belajar coding!! Ini hasil project pertamaku! 🎉
+Hi, I will introduce my simple project see well! 🎉
 
 ## Deskripsi
 
