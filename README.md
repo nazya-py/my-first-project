@@ -1,8 +1,6 @@
 # my-first-project
-hai, ini gue baru pertama kali belajar coding!! ini hasilnya!
 print('Nazya jadi sukses')
 cantik = input( ' nazya: ' )
-
 cantik = input( 'nazya: ' )
 saldo = input( ' Saldo Lu berapa: ' )
 if int ( saldo)  >= 500000:
