@@ -1,9 +1,9 @@
 # my-first-project
-print('Nazya jadi sukses')
-cantik = input( ' nazya: ' )
-cantik = input( 'nazya: ' )
+print('kita jadi sukses')
+cantik = input( ' kita: ' )
+cantik = input( 'kita: ' )
 saldo = input( ' Saldo Lu berapa: ' )
 if int ( saldo)  >= 500000:
-    print(f'{cantik} udah jadi sultan asli tajir melintir')
+    print(f'{kita} udah jadi sultan asli tajir melintir')
 else:
-    print(f'{cantik} masih calon sultan, gas nabung broo')
+    print(f'{kita} masih calon sultan, gas nabung broo')
